@@ -1,2 +1,2 @@
 # Student_Management_System
-None
+Ths about managing student details
